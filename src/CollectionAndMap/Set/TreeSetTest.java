@@ -1,4 +1,4 @@
-package Set;
+package CollectionAndMap.Set;
 
 import java.util.Comparator;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package Interable;
+package CollectionAndMap.Interable;
 
 import java.util.Collection;
 import java.util.HashSet;

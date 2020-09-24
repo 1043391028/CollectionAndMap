@@ -1,4 +1,4 @@
-package List;
+package CollectionAndMap.List;
 
 //       如果一开始就知道ArrayList集合需要保存多少元素，则可以在创建它们时就指定initialCapacity大小，
 //       这样可以减少重新分配的次数，提供性能，ArrayList还提供了如下方法来重新分配Object[]数组
