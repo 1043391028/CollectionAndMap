@@ -3,9 +3,11 @@ package com.guan.ReflectionAndAnotation;
 import java.lang.annotation.*;
 import java.lang.reflect.Field;
 
+
 public class Test01 {
 
     public static void main(String[] args) throws ClassNotFoundException, NoSuchFieldException {
+
         Class<?> c1 = Class.forName("com.guan.ReflectionAndAnotation.Student");
         // 通过反射获得指定注解；
         Annotation[] annotations = c1.getAnnotations();
