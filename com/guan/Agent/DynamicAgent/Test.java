@@ -1,6 +1,4 @@
-package DynamicAgent;
-
-import java.lang.reflect.Proxy;
+package guan.Agent.DynamicAgent;
 
 public class Test {
     public static void main(String[] args) {
