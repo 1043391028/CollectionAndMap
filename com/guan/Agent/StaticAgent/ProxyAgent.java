@@ -1,5 +1,3 @@
-package StaticAgent;
-
 public class ProxyAgent implements SayHello {
     private SayHello proxyAgent = new Agent();
     @Override

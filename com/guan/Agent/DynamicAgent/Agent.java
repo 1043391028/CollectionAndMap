@@ -1,6 +1,5 @@
-package guan.Agent.DynamicAgent;
 
-import guan.Agent.DynamicAgent.SayHello;
+package guan.Agent.DynamicAgent;
 
 public class Agent implements SayHello {
     @Override

@@ -1,4 +1,4 @@
-package CollectionAndMap.Queue;
+package guan.CollectionAndMap.Queue;
 
 import java.util.PriorityQueue;
 

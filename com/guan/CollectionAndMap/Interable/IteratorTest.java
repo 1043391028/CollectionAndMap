@@ -1,4 +1,4 @@
-package CollectionAndMap.Interable;
+package guan.CollectionAndMap.Interable;
 
 import java.util.Collection;
 import java.util.HashSet;
